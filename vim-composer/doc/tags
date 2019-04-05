@@ -1,0 +1,12 @@
+:Composer	composer.txt	/*:Composer*
+Composer.vim	composer.txt	/*Composer.vim*
+composer	composer.txt	/*composer*
+composer#query()	composer.txt	/*composer#query()*
+composer-about	composer.txt	/*composer-about*
+composer-autocommands	composer.txt	/*composer-autocommands*
+composer-commands	composer.txt	/*composer-commands*
+composer-contents	composer.txt	/*composer-contents*
+composer-functions	composer.txt	/*composer-functions*
+composer-intro	composer.txt	/*composer-intro*
+composer-maps	composer.txt	/*composer-maps*
+composer.txt	composer.txt	/*composer.txt*
